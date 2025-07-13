@@ -35,8 +35,20 @@ next_steps:
 
   - step: "Choose Email Based on Your Intent (Long-term vs. Temporary)"
     priority: "high"
-    notes: "If this is a one-time use (e.g., to download a file), use a disposable email service (like Temp-Mail.org). For long-term use, use a masked email (like SimpleLogin) or a secondary email. Only use your primary email for highly trusted services."
-  
+    notes: "Your email is your core digital identity. Match the tool to the task with this hierarchy:
+
+    1. For ONE-TIME use (e.g., downloading a file, reading an article):
+    - Use a DISPOSABLE email (like Temp-Mail.org).
+    - Benefit: Quick, no spam, no connection to you.
+    - WARNING: Never use this for a real account. You will permanently lose access.
+
+    2. For MOST LONG-TERM accounts (shopping, forums, social media):
+    - Use a MASKED/ALIASED email (like SimpleLogin, addy.io, Firefox Relay).
+    - Benefit: Protects your real email from data breaches and spam. If an alias is leaked, you just disable it.
+
+    3. For CRITICAL services ONLY (banking, government):
+    - Use your REAL, PRIMARY email. This is your most valuable digital asset; guard it carefully."
+
   - step: "Choose a Unique and Anonymous Username"
     priority: "medium"
     notes: "Never reuse usernames from other services. A unique username prevents your activity on this site from being linked to your other accounts. Avoid using your real name or personal info."
