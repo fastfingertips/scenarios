@@ -44,3 +44,7 @@ next_steps:
   - step: "Check for and Enable Two-Factor Authentication (2FA)"
     priority: "high"
     notes: "Immediately after signing up, go to security settings and enable 2FA. This is the most critical step for account security."
+
+  - step: "Archive the 'Welcome' Email"
+    priority: "medium"
+    notes: "Find the initial confirmation/welcome email in your inbox. Create a special folder (e.g., 'Account Registrations') and move it there. This email is proof of ownership and can be crucial for account recovery in the future."
