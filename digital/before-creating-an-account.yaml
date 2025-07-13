@@ -53,6 +53,10 @@ next_steps:
     priority: "high"
     notes: "Immediately after signing up, go to security settings and enable 2FA. This is the most critical step for account security."
 
+  - step: "Isolate the Service in Your Browser"
+    priority: "medium"
+    notes: "To prevent tracking across sites, contain this service. Use 'Firefox Multi-Account Containers' to assign it to a specific container (e.g., 'Shopping'). Alternatively, use a separate browser profile for this service."
+
   - step: "Archive the 'Welcome' Email"
     priority: "medium"
     notes: "Find the initial confirmation/welcome email in your inbox. Create a special folder (e.g., 'Account Registrations') and move it there. This email is proof of ownership and can be crucial for account recovery in the future."
