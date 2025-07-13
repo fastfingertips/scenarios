@@ -1,9 +1,13 @@
 scenario: "Before Creating an Account on a New Website"
-description: "A security and privacy checklist to follow before signing up for a new online service."
+description: "A comprehensive checklist for creating new online accounts, from verification and research to security best practices."
 next_steps:
   - step: "Verify Site Authenticity and Security"
     priority: "high"
     notes: "1) Check the URL for typos (e.g., 'gogle.com' instead of 'google.com'). 2) Ensure the address bar shows a padlock icon and starts with 'https://'."
+
+  - step: "Research Alternatives and Make an Informed Choice"
+    priority: "medium"
+    notes: "Is this the best tool for you? Use an AI search engine (like Perplexity, You.com) to ask: 'What are the best alternatives to [Site Name]?' or check websites like AlternativeTo.net for user suggestions."
 
   - step: "Check for an Existing Account"
     priority: "high"
