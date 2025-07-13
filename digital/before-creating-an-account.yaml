@@ -1,6 +1,18 @@
 scenario: "Before Creating an Account on a New Website"
 description: "A security and privacy checklist to follow before signing up for a new online service."
 next_steps:
+  - step: "Verify Site Authenticity and Security"
+    priority: "high"
+    estimated_duration_min: 1
+    required_energy: "low"
+    notes: "1) Check the URL for typos (e.g., 'gogle.com' instead of 'google.com'). 2) Ensure the address bar shows a padlock icon and starts with 'https://'."
+
+  - step: "Check for an Existing Account"
+    priority: "high"
+    estimated_duration_min: 2
+    required_energy: "low"
+    notes: "Do you already have an account here? Use the 'Forgot Password' link with your main emails to check. This avoids creating duplicate accounts."
+
   - step: "Decide Which Email Address to Use"
     priority: "high"
     estimated_duration_min: 1
