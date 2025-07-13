@@ -11,7 +11,7 @@ next_steps:
 
   - step: "Check for an Existing Account"
     priority: "medium"
-    notes: "Do you already have an account here? Use the 'Forgot Password' link with your main emails to check. This avoids creating duplicate accounts."
+    notes: "First, search your password manager (e.g., Bitwarden) for this site's domain. This is the fastest way to check. If nothing is found, you can also use the 'Forgot Password' link as a final check."
 
   - step: "Choose Email Based on Your Intent (Long-term vs. Temporary)"
     priority: "high"
