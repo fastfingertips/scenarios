@@ -65,7 +65,11 @@ next_steps:
 
   - step: "Provide Only Minimum Required Information"
     priority: "medium"
-    notes: "If a field is optional, leave it blank. The less data you share, the better."
+    notes: "Your goal: give the absolute minimum data required for the service to function. Less data shared means less data to be leaked, misused, or sold.
+
+    1. Optional Fields: If a field is marked 'optional' or has no asterisk (*), always leave it blank.
+
+    2. Required (but not critical) Fields: For required fields that aren't essential for the service (e.g., your real name for a forum, your birthdate for a newsletter), consider providing plausible but not real information. This tactic prevents them from building an accurate profile of you."
 
   - step: "Handle 'Free Trial' Payment Information"
     priority: "high"
