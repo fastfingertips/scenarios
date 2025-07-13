@@ -13,6 +13,10 @@ next_steps:
     priority: "medium"
     notes: "Is this the best tool for you? Use an AI search engine (like Perplexity, You.com) to ask: 'What are the best alternatives to [Site Name]?' or check websites like AlternativeTo.net for user suggestions."
 
+  - step: "Check the Service's Data Breach History"
+    priority: "medium"
+    notes: "Use the 'Domain Search' on 'Have I Been Pwned' to see if this service has appeared in major data breaches. Also, search online for '[Site Name] data breach' for recent news."
+
   - step: "Check for an Existing Account"
     priority: "medium"
     notes: "First, search your password manager (e.g., Bitwarden) for this site's domain. This is the fastest way to check. If nothing is found, you can also use the 'Forgot Password' link as a final check."
