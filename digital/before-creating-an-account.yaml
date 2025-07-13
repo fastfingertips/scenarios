@@ -3,60 +3,40 @@ description: "A security and privacy checklist to follow before signing up for a
 next_steps:
   - step: "Verify Site Authenticity and Security"
     priority: "high"
-    estimated_duration_min: 1
-    required_energy: "low"
     notes: "1) Check the URL for typos (e.g., 'gogle.com' instead of 'google.com'). 2) Ensure the address bar shows a padlock icon and starts with 'https://'."
 
   - step: "Check for an Existing Account"
     priority: "high"
-    estimated_duration_min: 2
-    required_energy: "low"
     notes: "Do you already have an account here? Use the 'Forgot Password' link with your main emails to check. This avoids creating duplicate accounts."
 
   - step: "Decide Which Email Address to Use"
     priority: "high"
-    estimated_duration_min: 1
-    required_energy: "low"
     notes: "Use a masked email (like Apple/SimpleLogin/DuckDuckGo) or a secondary email to avoid spam. Don't use your primary email unless you fully trust the service."
 
   - step: "Generate a Strong, Unique Password"
     priority: "high"
-    estimated_duration_min: 1
-    required_energy: "low"
     notes: "Use a password manager to create and save the password. Never reuse passwords across different sites."
 
   - step: "Provide Only Minimum Required Information"
     priority: "medium"
-    estimated_duration_min: 1
-    required_energy: "low"
     notes: "If a field is optional, leave it blank. The less data you share, the better."
 
   - step: "Handle 'Free Trial' Payment Information"
     priority: "high"
-    estimated_duration_min: 3
-    required_energy: "medium"
     notes: "If a credit card is required for a trial: 1) Consider using a virtual card. 2) Immediately set a calendar reminder to cancel it a day before the trial ends."
 
   - step: "Look for and Uncheck Marketing/Newsletter Boxes"
     priority: "medium"
-    estimated_duration_min: 1
-    required_energy: "low"
     notes: "These are often pre-checked by default. Opt-out now to keep your inbox clean later."
   
   - step: "Check the 'Exit Strategy' (Account Deletion)"
     priority: "low"
-    estimated_duration_min: 2
-    required_energy: "low"
     notes: "How easy is it to leave? Search the site's Help/FAQ for 'delete account'. If it's hard to find, it might be hard to do."
 
   - step: "Quick-Scan the Terms of Service"
     priority: "low"
-    estimated_duration_min: 2
-    required_energy: "low"
     notes: "You don't have to read it all. Use Ctrl+F to search for keywords like 'sell', 'third party', 'delete', or 'arbitration' to quickly spot potential red flags."
 
   - step: "Check for and Enable Two-Factor Authentication (2FA)"
     priority: "high"
-    estimated_duration_min: 3
-    required_energy: "low"
     notes: "Immediately after signing up, go to security settings and enable 2FA. This is the most critical step for account security."

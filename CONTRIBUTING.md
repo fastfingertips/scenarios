@@ -18,11 +18,7 @@ After creating your file, open a Pull Request.
 # next_steps:
 #   - step: "Name of the first action"
 #     priority: "high" # high, medium, or low
-#     estimated_duration_min: 5
-#     required_energy: "low" # high, medium, or low
 #     notes: "A helpful tip or an extra detail."
 #   - step: "Name of the second action"
 #     priority: "medium"
-#     estimated_duration_min: 15
-#     required_energy: "medium"
 #     notes: "Keep notes concise and actionable."
