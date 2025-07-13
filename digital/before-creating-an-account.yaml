@@ -7,7 +7,7 @@ next_steps:
 
   - step: "Verify Site Authenticity and Security"
     priority: "high"
-    notes: "1) Check the URL for typos (e.g., 'gogle.com' instead of 'google.com'). 2) Ensure the address bar shows a padlock icon and starts with 'https://'."
+    notes: "1) Check the URL for typos (e.g., 'gogle.com' instead of 'google.com'). 2) Ensure the address bar shows a padlock icon and starts with 'https://'. 3) For an advanced check, scan the site with a tool like Mozilla Observatory; a low grade (D, F) is a major red flag."
 
   - step: "Research Alternatives and Make an Informed Choice"
     priority: "medium"
