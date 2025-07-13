@@ -97,7 +97,12 @@ next_steps:
 
   - step: "Check for and Enable Two-Factor Authentication (2FA)"
     priority: "high"
-    notes: "Immediately after signing up, go to security settings and enable 2FA. This is the most critical step for account security."
+    notes: "This is your most critical defense after your password. A stolen password becomes useless to an attacker if 2FA is enabled.
+
+    Security Hierarchy (Best to Worst):
+    1. Best: Use an authenticator app (like Aegis, Ente) or a hardware key (YubiKey). This is the most secure method.
+    2. Okay: Use email-based 2FA if app-based is not an option.
+    3. Avoid if Possible: SMS-based 2FA. It's better than nothing, but vulnerable to SIM swapping attacks."
 
   - step: "Isolate the Service in Your Browser"
     priority: "medium"
