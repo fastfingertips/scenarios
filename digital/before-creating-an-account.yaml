@@ -21,9 +21,17 @@ next_steps:
     priority: "medium"
     notes: "First, search your password manager (e.g., Bitwarden) for this site's domain. This is the fastest way to check. If nothing is found, you can also use the 'Forgot Password' link as a final check."
 
+  - step: "Always Choose Manual Signup over Social Login"
+    priority: "high"
+    notes: "Avoid 'Sign in with Google/Apple/etc.' buttons. These link your accounts and share data between services. Always look for the 'Sign up with email' option to maintain separation (compartmentalization)."
+
   - step: "Choose Email Based on Your Intent (Long-term vs. Temporary)"
     priority: "high"
     notes: "If this is a one-time use (e.g., to download a file), use a disposable email service (like Temp-Mail.org). For long-term use, use a masked email (like SimpleLogin) or a secondary email. Only use your primary email for highly trusted services."
+  
+  - step: "Choose a Unique and Anonymous Username"
+    priority: "medium"
+    notes: "Never reuse usernames from other services. A unique username prevents your activity on this site from being linked to your other accounts. Avoid using your real name or personal info."
 
   - step: "Generate a Strong, Unique Password"
     priority: "high"
