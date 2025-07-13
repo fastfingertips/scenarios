@@ -15,7 +15,7 @@ next_steps:
 
   - step: "Generate a Strong, Unique Password"
     priority: "high"
-    notes: "Use a password manager to create and save the password. Never reuse passwords across different sites."
+    notes: "Use a password manager (e.g., Bitwarden, 1Password) to generate and save a long, random password. These tools act as a secure vault for all your logins, meaning you only have to remember one master password. Never reuse passwords across different sites."
 
   - step: "Provide Only Minimum Required Information"
     priority: "medium"
