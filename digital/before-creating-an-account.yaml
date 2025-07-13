@@ -11,7 +11,15 @@ next_steps:
 
   - step: "Research Alternatives and Make an Informed Choice"
     priority: "medium"
-    notes: "Is this the best tool for you? Use an AI search engine (like Perplexity, You.com) to ask: 'What are the best alternatives to [Site Name]?' or check websites like AlternativeTo.net for user suggestions."
+    notes: "Is this really the best tool for you? A few minutes of research can save you money, protect your privacy, or find a service that better fits your needs.
+    
+    How to research:
+    - AI Search: Ask an AI engine (like Perplexity): 'Compare [Site A] vs [Site B] on privacy' or 'Best open-source alternative to [Site Name]'.
+    - Community Feedback: Search Reddit or forums for '[Site Name] review' to find real, uncensored user opinions.
+    - Comparison Sites: Browse AlternativeTo.net for a list of similar services.
+    
+    What to compare:
+    Focus on Price, Features, and especially their Privacy Policy (is it Open Source?)."
 
   - step: "Check the Service's Data Breach History"
     priority: "medium"
