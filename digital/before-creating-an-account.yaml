@@ -1,0 +1,33 @@
+scenario: "Before Creating an Account on a New Website"
+description: "A security and privacy checklist to follow before signing up for a new online service."
+tags: ["security", "privacy", "digital", "online"]
+next_steps:
+  - step: "Decide Which Email Address to Use"
+    priority: "high"
+    estimated_duration_min: 1
+    required_energy: "low"
+    notes: "Use a masked email (like Apple/SimpleLogin/DuckDuckGo) or a secondary email to avoid spam. Don't use your primary email unless you fully trust the service."
+
+  - step: "Generate a Strong, Unique Password"
+    priority: "high"
+    estimated_duration_min: 1
+    required_energy: "low"
+    notes: "Use a password manager to create and save the password. Never reuse passwords across different sites."
+
+  - step: "Look for and Uncheck Marketing/Newsletter Boxes"
+    priority: "medium"
+    estimated_duration_min: 1
+    required_energy: "low"
+    notes: "These are often pre-checked by default. Opt-out now to keep your inbox clean later."
+
+  - step: "Check for and Enable Two-Factor Authentication (2FA)"
+    priority: "high"
+    estimated_duration_min: 3
+    required_energy: "low"
+    notes: "Immediately after signing up, go to security settings and enable 2FA. This is the most critical step for account security."
+
+  - step: "Provide Only Minimum Required Information"
+    priority: "medium"
+    estimated_duration_min: 1
+    required_energy: "low"
+    notes: "If a field is optional, leave it blank. The less data you share, the better."
