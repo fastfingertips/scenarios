@@ -1,6 +1,5 @@
 scenario: "Before Creating an Account on a New Website"
 description: "A security and privacy checklist to follow before signing up for a new online service."
-tags: ["security", "privacy", "digital", "online"]
 next_steps:
   - step: "Decide Which Email Address to Use"
     priority: "high"

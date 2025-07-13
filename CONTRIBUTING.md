@@ -15,7 +15,6 @@ After creating your file, open a Pull Request.
 ```yaml
 # scenario: "A short, clear title for the situation"
 # description: "A brief explanation of when this scenario is triggered."
-# tags: ["optional", "tags"]
 # next_steps:
 #   - step: "Name of the first action"
 #     priority: "high" # high, medium, or low
