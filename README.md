@@ -1,2 +1,7 @@
-# scenarios
-A collection of YAML-based scenarios for managing daily routines and workflows.
+# Scenarios
+
+A community-driven collection of YAML routines for everyday life.
+
+Want to add your own routine? Please read our **[Contribution Guidelines](CONTRIBUTING.md)**.
+
+Licensed under the [MIT License](LICENSE).
