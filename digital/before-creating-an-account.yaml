@@ -1,6 +1,10 @@
 scenario: "Before Creating an Account on a New Website"
 description: "A comprehensive checklist for creating new online accounts, from verification and research to security best practices."
 next_steps:
+  - step: "Define Your Intent and Threat Model"
+    priority: "medium"
+    notes: "Before you start, ask: 'Why am I signing up and who am I protecting my data from?' Is this a low-risk forum or a high-risk financial service? Your answer determines how strict you need to be with the following steps (your OPSEC level)."
+
   - step: "Verify Site Authenticity and Security"
     priority: "high"
     notes: "1) Check the URL for typos (e.g., 'gogle.com' instead of 'google.com'). 2) Ensure the address bar shows a padlock icon and starts with 'https://'."
