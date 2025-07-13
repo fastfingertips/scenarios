@@ -10,7 +10,7 @@ next_steps:
     notes: "Is this the best tool for you? Use an AI search engine (like Perplexity, You.com) to ask: 'What are the best alternatives to [Site Name]?' or check websites like AlternativeTo.net for user suggestions."
 
   - step: "Check for an Existing Account"
-    priority: "high"
+    priority: "medium"
     notes: "Do you already have an account here? Use the 'Forgot Password' link with your main emails to check. This avoids creating duplicate accounts."
 
   - step: "Decide Which Email Address to Use"
