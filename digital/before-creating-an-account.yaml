@@ -81,11 +81,19 @@ next_steps:
   
   - step: "Check the 'Exit Strategy' (Account Deletion)"
     priority: "low"
-    notes: "How easy is it to leave? Search the site's Help/FAQ for 'delete account'. If it's hard to find, it might be hard to do."
+    notes: "Can you truly DELETE your data, or just DEACTIVATE your account?
+    
+    1. Check Help/FAQ: Look for a 'delete account' guide. Is it a one-click process or do you need to contact support?
+    2. Check Community: Search Reddit for 'how to delete [Site Name] account' to see real user experiences and complaints."
 
-  - step: "Quick-Scan the Terms of Service"
+  - step: "Quick-Scan the Privacy Policy & ToS"
     priority: "low"
-    notes: "You don't have to read it all. Use Ctrl+F to search for keywords like 'sell', 'third party', 'delete', or 'arbitration' to quickly spot potential red flags."
+    notes: "This is the company's 'confession' on how they'll use your data. Look for these red flags:
+
+    - Vague Language: Phrases like 'we may share with business partners' are a bad sign.
+    - Third-Party Sharing: Do they mention selling/sharing data with 'advertisers' or 'data brokers'?
+    - Outdated Policy: Is the 'Last Updated' date years old?
+    - Keyword Search: Use Ctrl+F for your own search on 'sell', 'delete', 'arbitration'."
 
   - step: "Check for and Enable Two-Factor Authentication (2FA)"
     priority: "high"
