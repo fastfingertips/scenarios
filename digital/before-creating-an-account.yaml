@@ -55,7 +55,13 @@ next_steps:
 
   - step: "Generate a Strong, Unique Password"
     priority: "high"
-    notes: "Use a password manager (e.g., Bitwarden, 1Password) to generate and save a long, random password. These tools act as a secure vault for all your logins, meaning you only have to remember one master password. Never reuse passwords across different sites."
+    notes: "Your password manager (e.g., Bitwarden, 1Password) is your core security tool. Use it to its full potential:
+
+    1. For Site Passwords: Let the manager generate a long (16+ characters), completely random password. A password you can't remember is a good password. This randomness, not just complexity, is what makes it strong against modern attacks.
+    
+    2. For Your Master Password: Your only job is to create ONE strong password for the manager itself. For this, use a memorable passphrase of 4-5 random words (e.g., `TreeSpoonBlueMountainPaper`). This is both highly secure and easier to type.
+    
+    Golden Rule: Never reuse passwords. If one site is breached, your password manager contains the damage, protecting all your other accounts."
 
   - step: "Provide Only Minimum Required Information"
     priority: "medium"
